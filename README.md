@@ -1,7 +1,10 @@
 [Team 3]
-#Romel Mekhaiel 
+#Romel Mekhaiel
+
 #Soliana Hailemichael
+
 #Victor Moreno
+
 #Duaa Naz
 
 
