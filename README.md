@@ -1,3 +1,10 @@
+[Team 3]
+#Romel Mekhaiel 
+#Soliana Hailemichael
+#Victor Moreno
+#Duaa Naz
+
+
 # The Algorithms - Python
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod&style=flat-square)](https://gitpod.io/#https://github.com/TheAlgorithms/Python)&nbsp;
 [![Gitter chat](https://img.shields.io/badge/Chat-Gitter-ff69b4.svg?label=Chat&logo=gitter&style=flat-square)](https://gitter.im/TheAlgorithms)&nbsp;
@@ -27,7 +34,3 @@ We're on [Gitter](https://gitter.im/TheAlgorithms)!  Please join us.
 See our [directory](DIRECTORY.md).
 
 
-Romel Mekhaiel 
-Soliana Hailemichael
-Victor Moreno
-Duaa Naz
