@@ -25,3 +25,9 @@ We're on [Gitter](https://gitter.im/TheAlgorithms)!  Please join us.
 ## List of Algorithms
 
 See our [directory](DIRECTORY.md).
+
+
+Romel Mekhaiel 
+Soliana Hailemichael
+Victor Moreno
+Duaa Naz
